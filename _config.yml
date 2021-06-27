@@ -10,20 +10,20 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "ECX Grand Finale"
-email: "ecxunilag@gmail.com"
-description: "The Grand Finale, final chapter of ECX 2.0"
+title: "ECX Grand Finale – Moving Forward"
+email: "ecxuilag@gmail.com"
+description: "Engineering Career Expo is a platform established to create an environment of interaction between students and industry based personnel so as to empower them with relevant skills in the engineering field"
 baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+url: "http://ecx-unilag.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
-# Organizer Info
-organizerName: "ECX"
-organizerAlternateName: "ENGINEERING CAREER EXPO"
-organizerDescription: "A platform, established to create and foster the interaction between students and the industry."
+
+organizerName: "ECX Unilag"
+organizerAlternateName: "Engineering Career Expo Unilag"
+organizerDescription: "Engineering Career Expo is a platform established to create an environment of interaction between students and industry based personnel so as to empower them with relevant skills in the engineering field"
 organizerEmail: "ecxunilag@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://ecx.org.ng/"
@@ -56,13 +56,13 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "July 15-16-17, 2021"
-typeoutTextValues: '"", "Season", "Nigeria", "Lagos", "Nigeria"'
+heroTitle: "ECX Finale <typeout> 2021"
+eventDate: "July 15 - 17, 2021"
+typeoutTextValues: '"", "Season", "Online", "Virtual"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "", text: "Register"}
-#  - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "###", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Register Now"}
 
 # About Block
 aboutTitle: "About GRAND FINALE"
@@ -74,10 +74,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "1000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "8", specialCharacter: "", info: "hours", detail: "of knowledge sharing"}
+ - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -103,6 +103,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # eventPlaceCoordinates: "49.843237, 24.028751"
 # mapCenterCoordinates: "49.842537, 24.025701"
 # mapMobileCenterCoordinates: "49.841620, 24.029411"
+
 
 # Venue Block
 # venueBlockTitle: "Venue"
